@@ -1,4 +1,4 @@
- import {
+import {
   Home,
   Linkedin,
   Feather,
@@ -22,7 +22,6 @@ const config = {
     url: "https://reshaped-blog-starter.vercel.app",
     title: "Mansour Damanpak",
     description: "Personal website about product, AI and Web Performance",
-    },
   },
   menu: [
     {
@@ -40,7 +39,6 @@ const config = {
       title: "Consultancy Jobs",
       href: "/stack",
     },
-
     {
       title: "Online",
       items: [
