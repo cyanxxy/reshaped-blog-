@@ -13,14 +13,14 @@ import {
 
 const config = {
   app: {
-    title: "Reshaped",
-    subtitle: "Blog starter kit",
+    title: "Mansour Damanpak",
+    subtitle: "Personal Website",
     thumbnailUrl: "/img/logo.svg",
   },
   meta: {
     url: "https://reshaped-blog-starter.vercel.app",
     title: "Reshaped",
-    description: "Blog starter built on top of Next.js and Reshaped",
+    description: "Personal website about product, AI and Web Performance",
     twitter: {
       username: "blvdmitry",
     },
@@ -38,7 +38,7 @@ const config = {
     },
     {
       icon: Layers,
-      title: "Stack",
+      title: "Consultancy Jobs",
       href: "/stack",
     },
 
