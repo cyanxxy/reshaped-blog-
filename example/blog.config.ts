@@ -81,8 +81,8 @@ const config = {
           href: "https://github.com/formaat-design",
         },
         {
-          icon: Figma,
-          title: "Figma",
+          icon: linkedin,
+          title: "linkedin",
           href: "https://www.figma.com/@reshaped",
         },
       ],
