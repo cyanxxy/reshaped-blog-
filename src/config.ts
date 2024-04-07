@@ -75,7 +75,7 @@ const config = {
         {
           icon: Mail,
           title: "Mail",
-          href: "https://twitter.com/blvdmitry",
+          href: "mailto:mansoor.damanpak@gmail.com",
         },
         {
           icon: GitHub,
