@@ -1,10 +1,9 @@
 import {
   Home,
-  Linkedin,
   Feather,
-  GitHub,
   Twitter,
-  Mail,
+  Linkedin,
+  GitHub,
   Figma,
   CheckSquare,
   Mic,
@@ -21,8 +20,11 @@ const config = {
   },
   meta: {
     url: "https://reshaped-blog-starter.vercel.app",
-    title: "Mansour Damanpak",
+    title: "Mansour Blog",
     description: "Personal website about product, AI and Web Performance",
+    twitter: {
+      username: "blvdmitry",
+    },
   },
   menu: [
     {
@@ -40,23 +42,49 @@ const config = {
       title: "Consultancy Jobs",
       href: "/stack",
     },
+
+    {
+      title: "Projects",
+      items: [
+        {
+          icon: Package,
+          title: "Reshaped",
+          href: "https://reshaped.so",
+        },
+        {
+          icon: CheckSquare,
+          title: "Design System Checklist",
+          href: "https://www.designsystemchecklist.com",
+        },
+        {
+          icon: Mic,
+          title: "Design System Interviews",
+          href: "https://reshaped.so/blog",
+        },
+        {
+          icon: Briefcase,
+          title: "Formaat Design",
+          href: "https://formaat.design",
+        },
+      ],
+    },
     {
       title: "Online",
       items: [
         {
-          icon: Linkedin,
-          title: "Linkedin",
-          href: "https://www.linkedin.com/in/mansour-damanpak/",
+          icon: Twitter,
+          title: "Twitter",
+          href: "https://twitter.com/blvdmitry",
         },
         {
           icon: GitHub,
           title: "GitHub",
-          href: "https://github.com/cyanxxy",
+          href: "https://github.com/formaat-design",
         },
         {
-          icon: Mail,
-          title: "Mail",
-          href: "mailto:mansoor.damanpak@gmail.com",
+          icon: Linkedin,
+          title: "Linkedin",
+          href: "https://www.figma.com/@reshaped",
         },
       ],
     },
