@@ -1,4 +1,15 @@
-import { Home, Feather, Linkedin, GitHub, Medium } from "react-feather";
+import {
+  Home,
+  Feather,
+  Twitter,
+  GitHub,
+  Figma,
+  CheckSquare,
+  Mic,
+  Briefcase,
+  Layers,
+  Package,
+} from "react-feather";
 
 const config = {
   app: {
@@ -10,7 +21,9 @@ const config = {
     url: "https://reshaped-blog-starter.vercel.app",
     title: "Reshaped",
     description: "Personal website about product, AI and Web Performance",
-    // ... (other meta properties if needed) ...
+    twitter: {
+      username: "blvdmitry",
+    },
   },
   menu: [
     {
@@ -28,24 +41,49 @@ const config = {
       title: "Consultancy Jobs",
       href: "/stack",
     },
-    // ... (Projects section - no changes needed) ...
+
+    {
+      title: "Projects",
+      items: [
+        {
+          icon: Package,
+          title: "Reshaped",
+          href: "https://reshaped.so",
+        },
+        {
+          icon: CheckSquare,
+          title: "Design System Checklist",
+          href: "https://www.designsystemchecklist.com",
+        },
+        {
+          icon: Mic,
+          title: "Design System Interviews",
+          href: "https://reshaped.so/blog",
+        },
+        {
+          icon: Briefcase,
+          title: "Formaat Design",
+          href: "https://formaat.design",
+        },
+      ],
+    },
     {
       title: "Online",
       items: [
         {
-          icon: Linkedin,
-          title: "LinkedIn",
-          href: "https://www.linkedin.com/in/your-linkedin-profile", // Update with your LinkedIn URL
+          icon: Twitter,
+          title: "Twitter",
+          href: "https://twitter.com/blvdmitry",
         },
         {
           icon: GitHub,
           title: "GitHub",
-          href: "https://github.com/your-github-profile", // Update with your GitHub URL
+          href: "https://github.com/formaat-design",
         },
         {
-          icon: Medium,
-          title: "Medium",
-          href: "https://medium.com/@your-medium-profile", // Update with your Medium URL 
+          icon: Figma,
+          title: "Figma",
+          href: "https://www.figma.com/@reshaped",
         },
       ],
     },
