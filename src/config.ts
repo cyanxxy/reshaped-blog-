@@ -72,15 +72,15 @@ const config = {
     {
       title: "Online",
       items: [
+           {
+          icon: Linkedin,
+          title: "Linkedin",
+          href: "https://www.figma.com/@reshaped",
+        },
         {
           icon: GitHub,
           title: "GitHub",
           href: "https://github.com/formaat-design",
-        },
-        {
-          icon: Linkedin,
-          title: "Linkedin",
-          href: "https://www.figma.com/@reshaped",
         },
            {
           icon: Mail,
