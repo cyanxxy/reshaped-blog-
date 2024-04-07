@@ -20,8 +20,8 @@ const config = {
       items: [
         {
           icon: Link,
-          title: "LinkedIn",
-          href: "https://www.linkedin.com/in/yourusername",
+          title: "Twitter",
+          href: "https://twitter.com/blvdmitry",
         },
         {
           icon: GitHub,
@@ -30,8 +30,8 @@ const config = {
         },
         {
           icon: Book,
-          title: "Medium",
-          href: "https://medium.com/@yourusername",
+          title: "Figma",
+          href: "https://www.figma.com/@reshaped",
         },
       ],
     },
