@@ -18,13 +18,11 @@ const config = {
     subtitle: "Personal Website",
     thumbnailUrl: "/img/logo.svg",
   },
-   meta: {
+  meta: {
     url: "https://reshaped-blog-starter.vercel.app",
-    title: "Reshaped",
+    title: "Mansour Damanpak",
     description: "Personal website about product, AI and Web Performance",
-    twitter: {
-      username: "blvdmitry",
-    },
+  },
   menu: [
     {
       icon: Home,
