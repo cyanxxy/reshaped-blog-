@@ -1,9 +1,9 @@
 import {
   Home,
   Feather,
-  Twitter,
+  LinkedIn,
   GitHub,
-  Figma,
+  Medium,
   CheckSquare,
   Mic,
   Briefcase,
@@ -71,19 +71,19 @@ const config = {
       title: "Online",
       items: [
         {
-          icon: Twitter,
-          title: "Twitter",
-          href: "https://twitter.com/blvdmitry",
+          icon: LinkedIn,
+          title: "LinkedIn",
+          href: "https://www.linkedin.com/in/mansour-damanpak/",
         },
         {
           icon: GitHub,
           title: "GitHub",
-          href: "https://github.com/formaat-design",
+          href: "https://github.com/cyanxxy",
         },
         {
-          icon: Figma,
-          title: "Figma",
-          href: "https://www.figma.com/@reshaped",
+          icon: Medium,
+          title: "Medium",
+          href: "https://mansour-damanpak.medium.com/",
         },
       ],
     },
