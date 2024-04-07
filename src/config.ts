@@ -1,5 +1,6 @@
  import {
   Home,
+  Linkedin,
   Feather,
   Twitter,
   GitHub,
@@ -46,8 +47,8 @@ const config = {
       title: "Online",
       items: [
         {
-          icon: linkedin,
-          title: "linkedin",
+          icon: Linkedin,
+          title: "Linkedin",
           href: "https://twitter.com/blvdmitry",
         },
         {
