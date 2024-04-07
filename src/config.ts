@@ -46,8 +46,8 @@ const config = {
       title: "Online",
       items: [
         {
-          icon: Twitter,
-          title: "Twitter",
+          icon: linkedin,
+          title: "linkedin",
           href: "https://twitter.com/blvdmitry",
         },
         {
