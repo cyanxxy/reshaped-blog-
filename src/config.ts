@@ -3,6 +3,7 @@ import {
   Feather,
   Twitter,
   Linkedin,
+  Mail,
   GitHub,
   Figma,
   CheckSquare,
@@ -72,8 +73,8 @@ const config = {
       title: "Online",
       items: [
         {
-          icon: Twitter,
-          title: "Twitter",
+          icon: Mail,
+          title: "Mail",
           href: "https://twitter.com/blvdmitry",
         },
         {
