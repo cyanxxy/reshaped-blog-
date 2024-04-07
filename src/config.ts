@@ -2,9 +2,8 @@
   Home,
   Linkedin,
   Feather,
-  Medium,
   GitHub,
-  mail,
+  Mail,
   Figma,
   CheckSquare,
   Mic,
@@ -21,10 +20,8 @@ const config = {
   },
   meta: {
     url: "https://reshaped-blog-starter.vercel.app",
-    title: "Reshaped",
+    title: "Mansour Damanpak",
     description: "Personal website about product, AI and Web Performance",
-    twitter: {
-      username: "blvdmitry",
     },
   },
   menu: [
