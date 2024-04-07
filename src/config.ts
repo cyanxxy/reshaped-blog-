@@ -3,6 +3,7 @@ import {
   Linkedin,
   Feather,
   GitHub,
+  Twitter,
   Mail,
   Figma,
   CheckSquare,
