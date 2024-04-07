@@ -73,11 +73,6 @@ const config = {
       title: "Online",
       items: [
         {
-          icon: Mail,
-          title: "Mail",
-          href: "mailto:mansoor.damanpak@gmail.com",
-        },
-        {
           icon: GitHub,
           title: "GitHub",
           href: "https://github.com/formaat-design",
@@ -86,6 +81,11 @@ const config = {
           icon: Linkedin,
           title: "Linkedin",
           href: "https://www.figma.com/@reshaped",
+        },
+           {
+          icon: Mail,
+          title: "Mail",
+          href: "mailto:mansoor.damanpak@gmail.com",
         },
       ],
     },
