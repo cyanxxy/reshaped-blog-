@@ -91,7 +91,7 @@
 			}
 		
 			[data-rs-theme="blog"][data-rs-color-mode="light"] {
-					--rs-color-background-primary: #5a58f2;
+					--rs-color-background-primary: ##050505;
 --rs-color-background-primary-faded: #ecebfe;
 --rs-color-background-primary-highlighted: #4d4af0;
 --rs-color-border-primary: #3b38ed;
@@ -168,7 +168,7 @@
 			}
 		
 			[data-rs-theme="blog"][data-rs-color-mode="dark"] {
-					--rs-color-background-primary: #050505;
+					--rs-color-background-primary: #15171E;
 --rs-color-background-primary-faded: #252544;
 --rs-color-background-primary-highlighted: #5f5ced;
 --rs-color-border-primary: #8c8bf3;
