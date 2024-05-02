@@ -47,24 +47,14 @@ const config = {
       items: [
         {
           icon: Package,
-          title: "Reshaped",
-          href: "https://reshaped.so",
+          title: "TermehTravel",
+          href: "https://Termehtravel.com",
         },
         {
           icon: CheckSquare,
-          title: "Design System Checklist",
-          href: "https://www.designsystemchecklist.com",
-        },
-        {
-          icon: Mic,
-          title: "Design System Interviews",
-          href: "https://reshaped.so/blog",
-        },
-        {
-          icon: Briefcase,
-          title: "Formaat Design",
-          href: "https://formaat.design",
-        },
+          title: "Resume Website",
+          href: "https://www.mdamanpak.me",
+        }
       ],
     },
     {
