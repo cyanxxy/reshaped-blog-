@@ -45,7 +45,7 @@ const config = {
     },
 
     {
-      title: "Projects",
+      title: "Me",
       items: [
         {
           icon: Package,
