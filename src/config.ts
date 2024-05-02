@@ -40,7 +40,7 @@ const config = {
     },
     {
       icon: Layers,
-      title: "Consultancy Jobs",
+      title: "Stack",
       href: "/stack",
     },
 
