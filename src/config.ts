@@ -49,23 +49,13 @@ const config = {
       items: [
         {
           icon: Package,
-          title: "Reshaped",
-          href: "https://reshaped.so",
+          title: "Resume",
+          href: "https://mdamanpak.me",
         },
         {
           icon: CheckSquare,
-          title: "Design System Checklist",
-          href: "https://www.designsystemchecklist.com",
-        },
-        {
-          icon: Mic,
-          title: "Design System Interviews",
-          href: "https://reshaped.so/blog",
-        },
-        {
-          icon: Briefcase,
-          title: "Formaat Design",
-          href: "https://formaat.design",
+          title: "TermehTravel",
+          href: "https://www.termehtravel.com",
         },
       ],
     },
