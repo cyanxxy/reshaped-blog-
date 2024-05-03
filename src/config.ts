@@ -72,11 +72,6 @@ const config = {
           title: "GitHub",
           href: "https://github.com/cyanxxy",
         },
-                {
-          icon: at-sign,
-          title: "Medium",
-          href: "https://mansour-damanpak.medium.com/",
-        },
            {
           icon: Mail,
           title: "Mail",
