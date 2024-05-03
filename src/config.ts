@@ -65,12 +65,17 @@ const config = {
            {
           icon: Linkedin,
           title: "Linkedin",
-          href: "https://www.figma.com/@reshaped",
+          href: "https://www.linkedin.com/in/mansour-damanpak/",
         },
         {
           icon: GitHub,
           title: "GitHub",
-          href: "https://github.com/formaat-design",
+          href: "https://github.com/cyanxxy",
+        },
+                {
+          icon: at-sign,
+          title: "Medium",
+          href: "https://mansour-damanpak.medium.com/",
         },
            {
           icon: Mail,
