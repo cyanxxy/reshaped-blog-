@@ -19,7 +19,7 @@
     --rs-font-size-title-3: 64px;
     --rs-line-height-title-3: 68px;
     --rs-font-family-title-3: var(--rs-font-family-title);
-    --rs-font-weight-title-3: var(--rs-font-weight-heavy);  # Fixed this line
+    --rs-font-weight-title-3: var(--rs-font-weight-heavy);  /* Fixed this line */
     --rs-font-size-title-4: 56px;
     --rs-line-height-title-4: 60px;
 }
