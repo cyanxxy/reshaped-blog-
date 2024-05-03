@@ -168,7 +168,7 @@
 }
 
 [data-rs-theme="blog"][data-rs-color-mode="dark"] {
-	--rs-color-background-primary: #524fea;
+	--rs-color-background-primary: ##050505;
 --rs-color-background-primary-faded: #252544;
 --rs-color-background-primary-highlighted: #5f5ced;
 --rs-color-border-primary: #8c8bf3;
