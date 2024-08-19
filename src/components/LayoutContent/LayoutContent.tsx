@@ -16,13 +16,11 @@ const LayoutContent = (props: Props) => {
 
   return (
     <Hidden hide={{ s: !isArticle, l: false }}>
-      {(className) => (
-        <View grow className={className} height="100dvh">
-          <ScrollArea scrollbarDisplay="hover" key={pathname}>
-            {children}
-          </ScrollArea>
-        </View>
-      )}
+      <View grow height="100dvh">
+        <ScrollArea scrollbarDisplay="hover" key={pathname}>
+          {children}
+        </ScrollArea>
+      </View>
     </Hidden>
   );
 };
