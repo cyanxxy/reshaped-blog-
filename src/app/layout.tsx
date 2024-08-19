@@ -77,16 +77,13 @@ export default function RootLayout({
             overflow="hidden"
           >
             <Hidden hide={{ s: true, l: false }}>
-              {(className) => (
-                <View
-                  width={{ s: "240px", xl: "287px" }}
-                  height="100%"
-                  backgroundColor="elevation-base"
-                  className={className}
-                >
-                  <LayoutMenu />
-                </View>
-              )}
+              <View
+                width={{ s: "240px", xl: "287px" }}
+                height="100%"
+                backgroundColor="elevation-base"
+              >
+                <LayoutMenu />
+              </View>
             </Hidden>
 
             <LayoutSubmenu availableRoutes={availableRoutes} />
